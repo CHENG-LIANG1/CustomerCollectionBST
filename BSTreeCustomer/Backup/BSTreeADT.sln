@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTreeADT", "BSTreeADT.csproj", "{C0431EA3-8D66-4576-9FFD-F840DB84ABCA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C0431EA3-8D66-4576-9FFD-F840DB84ABCA}.Debug.ActiveCfg = Debug|.NET
+		{C0431EA3-8D66-4576-9FFD-F840DB84ABCA}.Debug.Build.0 = Debug|.NET
+		{C0431EA3-8D66-4576-9FFD-F840DB84ABCA}.Release.ActiveCfg = Release|.NET
+		{C0431EA3-8D66-4576-9FFD-F840DB84ABCA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

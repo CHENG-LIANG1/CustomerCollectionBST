@@ -1,0 +1,17 @@
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 4\BSTreeADT\obj\Debug\BSTreeADT.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 4\BSTreeADT\obj\Debug\BSTreeADT.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 4\BSTreeADT\bin\Debug\BSTreeADT.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 4\BSTreeADT\bin\Debug\BSTreeADT.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 4\BSTreeADT\obj\Debug\BSTreeADT.csprojResolveAssemblyReference.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 5\BSTreeADT\bin\Debug\BSTreeADT.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 5\BSTreeADT\bin\Debug\BSTreeADT.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 5\BSTreeADT\obj\Debug\BSTreeADT.csprojAssemblyReference.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 5\BSTreeADT\obj\Debug\BSTreeADT.csproj.CoreCompileInputs.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 5\BSTreeADT\obj\Debug\BSTreeADT.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 5\BSTreeADT\obj\Debug\BSTreeADT.pdb
+C:\Users\madfo\Desktop\C#\BSTreeADT (1)\obj\Debug\BSTreeADT.csprojAssemblyReference.cache
+C:\Users\madfo\Desktop\C#\BSTreeADT (1)\obj\Debug\BSTreeADT.csproj.CoreCompileInputs.cache
+C:\Users\madfo\Desktop\C#\BSTreeADT (1)\obj\Debug\BSTreeADT.exe
+C:\Users\madfo\Desktop\C#\BSTreeADT (1)\obj\Debug\BSTreeADT.pdb
+C:\Users\madfo\Desktop\C#\BSTreeADT (1)\bin\Debug\BSTreeADT.exe
+C:\Users\madfo\Desktop\C#\BSTreeADT (1)\bin\Debug\BSTreeADT.pdb
